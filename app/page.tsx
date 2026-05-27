@@ -2,8 +2,8 @@
 import React, { useState, useEffect, useRef } from "react"
 import { useRouter } from "next/navigation"
 
-const PHONE = "+201001050018"
-const WA = "https://wa.me/201001050018"
+const PHONE = "+201111136040"
+const WA = "https://wa.me/201111136040"
 const WEB3_KEY = "f07760dd-aaaa-4cdf-99b7-90606313a5ba"
 
 /* ── Data ── */
